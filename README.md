@@ -2,4 +2,4 @@
 
 DMM WEBCAMPカリキュラム
 
-* JavaScriptを学ぼう/
+* JavaScriptを学ぼう/2章 【JavaScriptの基本文法】
